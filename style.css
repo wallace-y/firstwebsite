@@ -1,6 +1,6 @@
 body {
   background-color: #fcfcfc;
-  color: #db6363;
+  color: #0000ff;
   text-align: center;
 }
 
@@ -18,7 +18,7 @@ header {
 
 .title {
   margin: auto;
-  color: #dc6363;
+  color: #0000ff;
   font-family: Poppins;
   font-size: 2em;
   font-weight: 700;
@@ -26,7 +26,7 @@ header {
 
 .banner {
   padding: 3%;
-  background-color: #db6363;
+  background-color: #0000ff;
   color: #ffffff;
   font-family: Poppins;
   font-size: 3em;
@@ -63,7 +63,7 @@ img {
 }
 
 .box {
-  background-color: #2f2f2f;
+  background-color: #002db3;
   color: #ffffff;
   font-family: Poppins;
   font-size: 16px;
@@ -92,7 +92,7 @@ img {
 
 .testimonial {
   background-color: #f0f0f0;
-  color: #db6363;
+  color: 0000ff;
   font-family: Poppins;
   font-size: 18px;
   font-style: italic;
@@ -109,7 +109,7 @@ img {
 }
 
 footer {
-  background-color: #db6363;
+  background-color: #0000ff;
   color: #ffffff;
   font-family: Poppins;
   font-size: 16px;
@@ -118,3 +118,10 @@ footer {
   grid-column-start: 1;
   grid-column-end: 7;
 }
+
+/* colour pallete */
+#0000ff
+#002db3
+#bfcfff
+#809fff
+#ffffff
