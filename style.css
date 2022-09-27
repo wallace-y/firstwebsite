@@ -133,9 +133,22 @@ footer {
 
 /* link styling */
 
-.links {
+.links:link {
+  color: #002db3;
+  text-decoration: none;
 }
 
+.links:visited {
+  color: #809fff;
+}
+
+.links:hover {
+  color: #002db3;
+}
+
+.links:active {
+  color: #809fff;
+}
 /* colour pallete
 #0000ff
 #002db3
